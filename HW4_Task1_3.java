@@ -1,4 +1,4 @@
-public class HW4_Tasl1_3 {
+public class HW4_Task1_3 {
     /**
      * Задача №3
      *
