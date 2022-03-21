@@ -1,4 +1,4 @@
-public class HW4_Task1 {
+public class HW4_Task1_1 {
     public static void main(String[] args) {
         /**
          Задача №1
@@ -13,5 +13,6 @@ int sum = 0;
 int i;
 for (i = 0; i < array.length; i++) sum += array[i];
         System.out.println(sum);
+
     }
 }
