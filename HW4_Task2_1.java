@@ -11,12 +11,10 @@ public class HW4_Task2_1 {
 
     public static void main(String[] args) {
         String s = "Перестановочный алгоритм быстрого действия";
-        String[] strArray = null;
-        strArray = s.split(" ");
-        System.out.println(strArray);
-//        for (int i = 0; i < s.length(); i++)
-//            if (s[i] == 'o')
-//                System.out.println('o');
-
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == 'о') {
+                System.out.println('о');
+            }
+        }
     }
 }
