@@ -10,3 +10,17 @@ If one of the flowers has an even number of petals and the other has an odd numb
 Write a function that will take the number of petals of each flower and return true if they are in love and false if
 they aren't.
  */
+
+/* Ver 2
+public class OppositesAttract {
+
+  public static boolean isLove(final int flower1, final int flower2) {
+    if (flower1 % 2 != 0 && flower2 % 2 == 0 || flower2 % 2 != 0 && flower1 % 2 == 0) {
+      return true;
+    } else {
+      return false;
+}
+}
+
+}
+ */
