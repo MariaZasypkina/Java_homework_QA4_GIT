@@ -3,6 +3,10 @@ public class HW5_Task1_kata_8kyu_OppositesAttract {
 
         return (flower1 + flower2)%2 != 0;
     }
+
+    public static void main(String[] args) {
+        System.out.println(isLove(67, 76));
+    }
 }
 /*
 Timmy & Sarah think they are in love, but around where they live, they will only know once they pick a flower each.
