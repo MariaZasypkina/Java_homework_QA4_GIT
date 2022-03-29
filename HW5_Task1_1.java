@@ -1,4 +1,4 @@
-public class HW5_Task5_1 {
+public class HW5_Task1_1 {
     /**
      * Задача №1
      * Необходимо написать 4 метода:
