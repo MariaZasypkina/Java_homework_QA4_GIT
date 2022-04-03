@@ -1,3 +1,5 @@
+package Codewars_HW;
+
 public class HW5_Task1_kata_8kyu_IfYouCantSleepJustCountSheep {
     public static String countingSheep(int num) {
         String result = "";

@@ -1,3 +1,5 @@
+package Codewars_HW;
+
 public class HW5_Task1_kata_8kyu_YouCantCodeUnderPressure1 {
 /* 8 kyu
 You Can't Code Under Pressure #1

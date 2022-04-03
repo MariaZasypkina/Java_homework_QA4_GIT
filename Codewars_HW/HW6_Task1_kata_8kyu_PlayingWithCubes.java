@@ -1,3 +1,5 @@
+package Codewars_HW;
+
 public class HW6_Task1_kata_8kyu_PlayingWithCubes {
     //public class Cube
     private int Side;

@@ -1,3 +1,5 @@
+package Codewars_HW;
+
 public class HW5_Task1_kata_8kyu_FindTheSmallestIntegerInTheArray {
     public static int findSmallestInt(int[] args) {
         int min = args[0];
