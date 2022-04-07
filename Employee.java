@@ -19,4 +19,5 @@ public class Employee {
         System.out.println(employee.isSameName(employee));
         System.out.println(employee1.isSameName(employee));
     }
+
 }
