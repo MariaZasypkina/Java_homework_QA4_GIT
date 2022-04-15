@@ -1,5 +1,7 @@
 package HW6;
+
 public class Person {
+
     String name;
     int age;
     String gender;
@@ -10,5 +12,5 @@ public class Person {
         } else {
             return "Mrs. " + name;
         }
-        }
     }
+}
