@@ -15,5 +15,6 @@ Employee [] employeeArray = {employee1, employee2};
         System.out.println(employee1.isSameName(employee2));
         System.out.println(salary.getSum(employeeArray));
 
+
     }
 }
