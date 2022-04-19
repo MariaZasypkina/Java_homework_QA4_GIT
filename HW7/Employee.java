@@ -2,32 +2,30 @@ package HW7;
 
 public class Employee {
   private double baseSalary;
-  private double name;
-  private double salary;
+  private String name;
 
-    public Employee(double baseSalary, double name, double salary) {
+    public Employee(double baseSalary, String name) {
         this.baseSalary = baseSalary;
         this.name = name;
-        this.salary = salary;
     }
 
     public double getBaseSalary() {
         return baseSalary;
     }
 
-    public double getName() {
+    public String getName() {
         return name;
     }
 
     public double getSalary() {
-        return salary;
+        return baseSalary;
     }
 
     public void setBaseSalary(double baseSalary) {
         this.baseSalary = baseSalary;
     }
 
-    public void setName(double name) {
+    public void setName(String name) {
         this.name = name;
     }
 
