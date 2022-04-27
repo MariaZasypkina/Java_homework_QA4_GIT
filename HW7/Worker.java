@@ -1,4 +1,5 @@
 package HW7;
+
 public class Worker extends Employee {
 
 
